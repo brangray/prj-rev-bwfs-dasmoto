@@ -1,0 +1,12 @@
+
+
+<link href="./resources/css/style.css" type="text/css" rel="stylesheet">
+
+Image 1: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+
+Brushes Image 2: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg
+
+Franes Image 3: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg
+
+Paint Imahe 4:https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg
+
